@@ -232,6 +232,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Brian Dawn
 1. Brian Heim
 1. Brian Ketelsen
+1. Brian Murray
 1. Brian Pepple (Former Fedora Engineering Steering Committee member)
 1. Brian Teeman (co-founder Joomla! and OpenSourceMatters)
 1. Brig C. McCoy
